@@ -54,7 +54,8 @@ Backend developer focused on **Java and Spring Boot**, with a strong interest in
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,oracle&theme=dark" alt="databases" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
 </p>
 
@@ -143,25 +144,6 @@ Backend developer focused on **Java and Spring Boot**, with a strong interest in
 
 - 🎯 **Computer Systems Analysis** · Universidad Católica Nuestra Señora de la Asunción · *2022 – Present (ongoing)*
 - ✅ **Computer Applications Programmer** · Universidad Católica Nuestra Señora de la Asunción · *2022 – 2025*
-
----
-
-## 📊 `GITHUB STATS`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vlonetatii3&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d0221&title_color=ff2a6d&icon_color=05d9e8&text_color=d1f7ff&count_private=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vlonetatii3&layout=compact&theme=synthwave&hide_border=true&bg_color=0d0221&title_color=ff2a6d&text_color=d1f7ff" alt="Top Languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Vlonetatii3&theme=synthwave&hide_border=true&background=0d0221&ring=ff2a6d&fire=ffd319&currStreakLabel=05d9e8" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vlonetatii3&bg_color=0d0221&color=05d9e8&line=ff2a6d&point=ffd319&area=true&hide_border=true" alt="Activity Graph" width="95%" />
-
-</div>
 
 ---
 
